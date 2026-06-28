@@ -1,15 +1,15 @@
 
 Hi, I'm Lakshay 👋 
 
-I work and design resilient distributed backends, high-scale microservices, and intelligent agentic workflows.
-My work centers on hands-on software craftsmanship: building robust concurrent services in Go, Clojure, and Java/Spring Boot, alongside exploring practical
+I work and design resilient distributed backends & high-scale microservices.
+My work centers on hands-on software craftsmanship: building robust concurrent services in Go, Java and Clojure, alongside exploring practical
 applications using LLM-driven Multi-Agent Systems (MAS) and Model Context Protocol (MCP) integrations.
 
 ### 💼 About Me
 
 🚀 Software Engineer at JioStar building next-generation OTT subscriptions system at scale.
 
-📚 Passionate about system reliability, distributed consensus protocols, database correctness, and clean API design.
+📚 Passionate about system designs, system reliability, scalable AI solutions. 
 
 ### 🤖 AI, Agentic Systems & Model Context Protocol (MCP)
 
